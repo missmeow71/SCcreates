@@ -292,16 +292,10 @@ body {
     padding: 3vh 0 0 3vw;
 }
 
-#myCarousel img {
-   height: 42rem;
-}
-
 .myCarousel .carousel-inner .item {
-    height: 42rem;
-    min-width: 100%;
-    background-position: absolute;
-    background-repeat: no-repeat;
-    background-size: cover;
+    display: flex;
+    justify-content: center;
+
 }
 
 #myCarousel .carousel-caption {
