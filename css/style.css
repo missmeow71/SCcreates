@@ -78,7 +78,7 @@ body {
 }
 
 #home {
-    background: url('https://missmeow71.github.io/Sandra-Cowper/img/beautiful-calm-clouds-206359.jpg') no-repeat center center fixed;
+    background: url('https://missmeow71.github.io/Sandra-Cowper/img/astronomy-ball.jpg') no-repeat center center fixed;
     height: 100vh;
     position: relative;
     width: 100%;
@@ -267,14 +267,13 @@ body {
 }
 
 #murals {
-    background-color: #a191a5;
+    background-image: url('https://missmeow71.github.io/Sandra-Cowper/img/astronomy-backlit-dark-735651.jpg');
     padding-top: 7vh;
     background-size: cover;
     position: relative;
     width: 100%;
     height: 100%;
     display: inline-block;
-    padding-top: 7vh;
 }
 
 #murals h2 {
@@ -309,6 +308,12 @@ body {
 #faux-finishes {
     background-color: #a191a5;
     padding-top: 7vh;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    padding-top: 7vh;
 }
 
 #faux-finishes h2 {
@@ -327,8 +332,13 @@ body {
 }
 
 #interior-design {
-    background-color: #a191a5;
+    background-image: url('https://missmeow71.github.io/Sandra-Cowper/img/astronomy-backlit-dark-735651.jpg');
     padding-top: 7vh;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
 }
 
 #interior-design h2 {
@@ -367,8 +377,13 @@ body {
 }
 
 #props {
-    background-color: #a191a5;
+    background-image: url('https://missmeow71.github.io/Sandra-Cowper/img/astronomy-backlit-dark-735651.jpg');
     padding-top: 7vh;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
 }
 
 #props h2 {
