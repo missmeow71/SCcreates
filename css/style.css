@@ -293,12 +293,13 @@ body {
 }
 
 #myCarousel img {
-   height: 100vh;
+   height: 42rem;
 }
 
 .myCarousel .carousel-inner .item {
-    height: 400px;
-    background-position: center center;
+    height: 42rem;
+    min-width: 100%;
+    background-position: absolute;
     background-repeat: no-repeat;
     background-size: cover;
 }
