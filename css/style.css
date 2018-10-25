@@ -287,11 +287,13 @@ body {
     flex-flow: wrap;
     padding: 3vh 0 0 3vw;
 }
+.my-carousel {
+   margin: auto;
+}
 
 .myCarousel .carousel-inner .item {
     display: flex;
     justify-content: center;
-
 }
 
 #myCarousel .carousel-caption {
