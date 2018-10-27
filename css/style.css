@@ -78,7 +78,7 @@ body {
 }
 
 #home {
-    background: url('/img/astronomy-ball.jpg')no-repeat center center fixed;
+    background: url('https://missmeow71.github.io/SCcreates/img/astronomy-ball.jpg')no-repeat center center fixed;
     height: 100vh;
     position: relative;
     width: 100%;
@@ -193,7 +193,7 @@ body {
 }
 
 #projects {
-    background: url('/img/abstract-astronomy.jpg')no-repeat center center fixed;
+    background: url('https://missmeow71.github.io/SCcreates/img/abstract-astronomy.jpg')no-repeat center center fixed;
     background-size: cover;
     position: relative;
     width: 100%;
@@ -308,7 +308,7 @@ body {
 }
 
 #faux-finishes {
-    background: url('/img/abstract-astronomy.jpg')no-repeat center center fixed;
+    background: url('https://missmeow71.github.io/SCcreates/img/abstract-astronomy.jpg')no-repeat center center fixed;
     padding-top: 7vh;
     background-size: cover;
     position: relative;
@@ -397,7 +397,7 @@ body {
 }
 
 #furniture {
-    background: url('/img/abstract-astronomy.jpg')no-repeat center center fixed;
+    background: url('https://missmeow71.github.io/SCcreates/img/abstract-astronomy.jpg')no-repeat center center fixed;
     padding-top: 7vh;
     background-size: cover;
     position: relative;
@@ -485,7 +485,7 @@ body {
 }
 
 #other {
-     background: url('/img/abstract-astronomy.jpg')no-repeat center center fixed;
+     background: url('https://missmeow71.github.io/SCcreates/img/abstract-astronomy.jpg')no-repeat center center fixed;
      padding-top: 7vh;
      background-size: cover;
      position: relative;
@@ -529,7 +529,7 @@ body {
 }
 
 #contact {
-    background-image: url('/img/space-abstract.jpg');
+    background-image: url('https://missmeow71.github.io/SCcreates/img/space-abstract.jpg');
     background-size: cover;
     position: relative;
     width: 100%;
